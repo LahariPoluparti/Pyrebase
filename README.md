@@ -1,4 +1,6 @@
-# Pyrebase
+#Recycle-A-Bull Pyrebase for Firebase API 
+
+## Pyrebase
 
 A simple python wrapper for the [Firebase API](https://firebase.google.com).
 
